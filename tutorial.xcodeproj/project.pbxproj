@@ -142,7 +142,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0940;
 				LastUpgradeCheck = 0940;
-				ORGANIZATIONNAME = "Robot Coach";
+				ORGANIZATIONNAME = "Gonzo Labs";
 				TargetAttributes = {
 					9FA97B2420F84F3D004F134D = {
 						CreatedOnToolsVersion = 9.4.1;
@@ -365,7 +365,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = robotcoach.tutorial;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gonzolabs.tutorial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -383,7 +383,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = robotcoach.tutorial;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gonzolabs.tutorial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
